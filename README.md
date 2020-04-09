@@ -1,3 +1,3 @@
-# puppies_rescue
+# Puppies Rescue
 
-for people who care
+For people who care.
